@@ -7,7 +7,7 @@ Instructions:
 main.py takes in an extra arguement: the URL for the webpage you would like to first start scraping.
 Example:
 ```command line
-shell\>\> python main.py http://www.awebpage.com
+shell$ python main.py http://www.awebpage.com
 ```
 
 WARNING:
