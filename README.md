@@ -11,4 +11,4 @@ shell$ python main.py http://www.awebpage.com
 ```
 
 WARNING:
-Scrape with care. Sites may temporarily ban your router's ip address. 
+Scrape with care.
