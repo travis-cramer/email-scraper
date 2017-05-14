@@ -1,7 +1,7 @@
 # Email Scraper/Crawler
 Scrape emails by web-crawling.
 
-NEEDED: text file named "emails.txt" for storing address that the crawler finds. 
+NEEDED: text file named "emails.txt" for storing addresses that the crawler finds. 
 
 Instructions:
 main.py takes in an extra arguement: the URL for the webpage on which you would like to start crawling.
